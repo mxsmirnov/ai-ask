@@ -23,7 +23,8 @@ description: Documents architecture decisions as Y-Statement ADRs (Architecture 
 - Заполняй шаблон только сведениями из источника или `—`.
 - Если есть пропуски, в `{tasks_section}` добавь `## Задачи на доработку` с одной задачей на каждый пропуск.
 - Если пропусков нет, `{tasks_section}` оставь пустым.
-
+- Имя файла `adr/adr-NNNN-{slug}.md`, где `NNNN` — следующее натуральное число, `{slug}` — латиница kebab-case по смыслу решения (`http-only-session-cookie`).
+- 
 ## Правила
 
 - Y-Statement — одно предложение.
