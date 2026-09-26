@@ -1,0 +1,13 @@
+{
+  "versions": [
+    "v0.1-minimal",
+    "v0.2-template",
+    "v0.3-validation",
+    "v0.4-trace",
+    "v0.5-project",
+    "v1.0-final"
+  ],
+  "rule": "v0.2 replaces the inline Format body with assets/adr-template.md; from v0.2 onward each SKILL.md appends new sections only.",
+  "evals": "v1.0-final/evals/evals.json",
+  "testing": "EVALS.md"
+}
