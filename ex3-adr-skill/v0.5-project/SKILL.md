@@ -1,6 +1,6 @@
 ---
 name: y-statement
-description: description: Documents architecture decisions as Y-Statement ADRs (Architecture Decision Records). Use when the user asks for ADR, architecture decision record, Y-statement, y-statement, архитектурное решение, запись решения, why we chose X and rejected Y, or to capture context, forces, decision, rejected alternatives, goal, and trade-offs in one sentence
+description: Documents architecture decisions as Y-Statement ADRs (Architecture Decision Records). Use when the user asks for ADR, architecture decision record, Y-statement, y-statement, архитектурное решение, запись решения, why we chose X and rejected Y, or to capture context, forces, decision, rejected alternatives, goal, and trade-offs in one sentence
 ---
 
 # Y-Statement ADR
